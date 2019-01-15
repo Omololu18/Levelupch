@@ -1,0 +1,21 @@
+.my-form{
+	padding:20px;
+}
+
+.my-form .form-group{
+	padding-bottom:15px;
+}
+
+.my-form label{
+	display:block;
+}
+
+.my-form input{
+	color:#c6c7c5;
+	width:100%;
+}
+
+.my-form input[type="sign in"]{
+	background-color:#696969;
+	border:none;
+}
